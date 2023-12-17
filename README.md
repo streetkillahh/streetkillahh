@@ -43,7 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
 #
 
 ### 📊 Статистика GitHub
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=streetkillahh&show_icons=true&theme=gruvbox)
+![streetkillahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=streetkillahh&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=streetkillahh&theme=gruvbox&border_radius=4.5)
 #
 <details>
@@ -51,11 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
   Я ещё уделю своё время на заполнение этих деталей
 <!--
 **streetkillahh/streetkillahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 - 📫 How to reach me: ...
 
